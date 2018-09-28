@@ -2,11 +2,9 @@
 
 _Maintained by Lehel Mátyus - Director, Front-End Engineering at Urban Insight, inc._  
 
-Edit: https://bitbucket.org/urban-insight/front-end-standards/src/master/I.%20Front%20End%20Standards%20-%20Best%20Practices.md
-
 This document to be revised every 3 months and updated to accommodate to ever changing requirements of the web.   
-Last Updated: **5/1/2018**  
-Next Update: **8/1/2018**
+Last Updated: **8/1/2018**  
+Next Update: **11/1/2018**
 
 ## The 5 Pillars of UI's Front-End Standards
 
