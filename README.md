@@ -24,7 +24,7 @@ Next Update: **11/1/2018**
 2. **Design systems, component based design**
 3. **Leveraging front-end frameworks**
 4. **Accessibility, 508 Compliance and WCAG 2.0**
-5. **Front-end StarterKits**
+
 
 
 
@@ -926,31 +926,3 @@ Every Time a component is done, or a page is themed hand it off to Quality Assur
 
 - Disable Javascript and test if the information on the page is readable and all information is accessible.
 - Disable CSS and review if the information on the page is still readable and all information is accessible.
-
-## 5. Front-end StarterKits
-
-### Front End Starterkits
-| Starterkit| For | Description | Status | Link | Maintainer |
-|-----------|-----|-------------|--------|------|------------|
-| d8-gulp-starter-theme | Drupal 8 | Bootstrap 3.7 Childtheme for D8 | ready for use | [ d8-gulp-starter-theme ](https://bitbucket.org/urban-insight/d8-gulp-starter-theme/src/master/)     |Evan & Lehel|
-| <del>startertheme-d8-b3</del> | <del>Drupal 8</del> | <del>Bootstrap 3.7 Childtheme for D8</del> | Deprecated | <del>[ startertheme-d8-b3 ](https://bitbucket.org/urban-insight/startertheme-d8-b3)</del>     |Lehel|
-| startertheme-d7 | Drupal 7 | Bootstrap 3.7 Childtheme for D7 | ready for use | [ startertheme-d7 ](https://bitbucket.org/urban-insight/starter-static)     |Lehel|
-| starter-wp-child-theme |WP| WordPress Child Theme Skeleton | ready for use | [ starter-wp-child-theme ](https://bitbucket.org/urban-insight/starter-wp-child-theme)     |Lehel|
-| ui-wireframes |Static Wireframes | Bootstrap 3.x elements and pages for wireframing | ready for use | [      ui-wireframes ](https://bitbucket.org/urban-insight/ui-wireframes)     |Mark E.|
-
-
-### Front End Code Snippet Library
-
-| Starterkit| For | Description | Status | Link | Maintainer |
-|-----------|-----|-------------|--------|------|------------|
-| wp_salient_snippets |WP Salient| WordPress Code Snippets for Salient| ready for use | [ wp_salient_snippets ](https://bitbucket.org/urban-insight/wp_salient_snippets)     |Lehel|
-
-## Bibliography
-
-https://www.slideshare.net/foobartel/front-end-best-practices       
-https://www.quora.com/What-are-front-end-development-guidelines-and-best-practices    
-https://www.catswhocode.com/blog/top-10-best-practices-for-front-end-web-developers    
-https://github.com/grab/front-end-guide    
-https://www.belatrixsf.com/blog/best-practices-for-front-end-coding/    
-https://code.tutsplus.com/tutorials/24-javascript-best-practices-for-beginners--net-5399    
-https://www.codeproject.com/Articles/580165/JavaScript-Best-Practices    
